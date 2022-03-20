@@ -4,6 +4,7 @@
   "description": "A spacemacs-ish theme with a few customizations to soothe my poor eyes",
   "version": "0.0.1",
   "license": "MIT",
+  "publisher": "lucaspin",
   "repository": {
     "type": "git",
     "url": "https://github.com/lucaspin/outer-spacemacs"
