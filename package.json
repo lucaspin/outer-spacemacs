@@ -1,0 +1,19 @@
+{
+  "name": "outer-spacemacs",
+  "displayName": "Outer Spacemacs",
+  "description": "A spacemacs-ish theme with a few customizations to soothe my poor eyes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "outer-spacemacs",
+        "uiTheme": "vs-dark",
+        "path": "./themes/outer-spacemacs-color-theme.json"
+      }
+    ]
+  }
+}
