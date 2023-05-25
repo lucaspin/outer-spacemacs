@@ -12,7 +12,3 @@ blocks:
           commands:
             - checkout
             - echo hello
-            - echo hello again
-            - echo please
-            - echo try another branch
-            - echo omg
