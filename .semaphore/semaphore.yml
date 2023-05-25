@@ -12,5 +12,5 @@ blocks:
           commands:
             - checkout
             - echo hello
-            - echo this should run
             - echo hello again
+            - echo this should not run
