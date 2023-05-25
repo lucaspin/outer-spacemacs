@@ -13,4 +13,3 @@ blocks:
             - checkout
             - echo hello
             - echo hello again
-            - echo this should not run
