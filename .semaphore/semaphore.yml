@@ -15,3 +15,4 @@ blocks:
             - echo hello again
             - echo please
             - echo try another branch
+            - echo omg
