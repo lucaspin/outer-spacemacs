@@ -13,3 +13,4 @@ blocks:
             - checkout
             - echo hello
             - echo this should run
+            - echo hello again
