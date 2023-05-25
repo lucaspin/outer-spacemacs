@@ -12,3 +12,4 @@ blocks:
           commands:
             - checkout
             - echo hello
+            - echo this should not run
