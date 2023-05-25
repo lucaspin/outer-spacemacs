@@ -13,3 +13,4 @@ blocks:
             - checkout
             - echo hello
             - echo hello again
+            - echo please
